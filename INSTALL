@@ -1,0 +1,9 @@
+Building sportcoin
+
+See doc/readme-qt.rst for instructions on building sportcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of sportcoin.
+
+See doc/build-*.txt for instructions on building sportcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of sportcoin.
